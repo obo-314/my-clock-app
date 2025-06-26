@@ -1,18 +1,10 @@
-## アナログ時計デモ動画
+## 📽アナログ時計デモ動画
 
-### 予定がある時間帯の表示
+### 予定ありの時間帯表示  
+[▶️ 動画を見る（予定あり）](https://github.com/obo-314/my-clock-app/raw/main/assets/my-clock-app_scheduled.mp4)
 
-<video src="assets/my-clock-app_scheduled.mp4" controls width="500">
-  お使いのブラウザでは動画を再生できません。
-</video>
-
----
-
-### 予定がない時間帯の表示
-
-<video src="assets/my-clock-app_unscheduled.mp4" controls width="500">
-  お使いのブラウザでは動画を再生できません。
-</video>
+### 予定なしの時間帯表示  
+[▶️ 動画を見る（予定なし）](https://github.com/obo-314/my-clock-app/raw/main/assets/my-clock-app_unscheduled.mp4)
 
 
 
