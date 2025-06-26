@@ -10,7 +10,7 @@
 
 ### ⚪️ 予定がない時間帯の表示
 
-<video src="assets/my-clock-app_no_scheduled.mp4" controls width="500">
+<video src="assets/my-clock-app_unscheduled.mp4" controls width="500">
   お使いのブラウザでは動画を再生できません。
 </video>
 
