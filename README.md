@@ -1,6 +1,6 @@
-## 📽️ アナログ時計デモ動画
+## アナログ時計デモ動画
 
-### 🟢 予定がある時間帯の表示
+### 予定がある時間帯の表示
 
 <video src="assets/my-clock-app_scheduled.mp4" controls width="500">
   お使いのブラウザでは動画を再生できません。
@@ -8,7 +8,7 @@
 
 ---
 
-### ⚪️ 予定がない時間帯の表示
+### 予定がない時間帯の表示
 
 <video src="assets/my-clock-app_unscheduled.mp4" controls width="500">
   お使いのブラウザでは動画を再生できません。
